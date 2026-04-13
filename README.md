@@ -1,4 +1,4 @@
-# 🌱 CropSentinel
+# 🌱 CropSentinel: AI-Based Crop Health & Flood Damage Detection using Deep Learning (VGG16, ResNet50) and OpenCV
 
 CropSentinel is an AI-powered agricultural monitoring system designed to detect crop health and flood damage using deep learning and computer vision techniques.
 
